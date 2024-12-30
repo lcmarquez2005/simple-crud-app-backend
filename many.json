@@ -1,0 +1,9 @@
+[
+    {
+        "Name": "Tony Soprano","Age": 52, "Address": { "Street": "Aspen Drive", "Number":14, "City": "New Jersey"}, "Phone": "0278945613"
+    },
+
+    { 
+        "Name": "Ross Geller", "Age": 35, "Address": {"Street": "Bedford Street", "Number": 90, "City" : "New York"}
+    }
+]

@@ -1,0 +1,5 @@
+{
+    "Name": "John Wick",
+    "Age": 42,
+    "Address": { "street": "Palo Alto St", "Number":9, "City": "California"}, "phone": "0374895126"
+}
